@@ -27,3 +27,11 @@ Screenshots of the portal are as follows:
 
 ![](screenshots/profile.png)
 
+
+
+5. Voter ID PDF:
+
+
+
+![](screenshots/pdf.png)
+
